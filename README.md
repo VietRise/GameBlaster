@@ -7,3 +7,7 @@ Some infomations:
 - I wrote it using C++ language on Visual Studio IDE.
 
 I made when i joined in the Hakathon Game Console at my university.
+
+If you have some questions, you can contact me with following infomaiton.
+Skype: vietrise
+Email: vietrise@gmail.com
